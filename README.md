@@ -1,3 +1,5 @@
+**watch video analysis** https://youtu.be/Dn41O8zyO6Q
+
 **enter these cmds in cmd**
 
 git clone https://github.com/codingacharya/react-sql-analytics.git
